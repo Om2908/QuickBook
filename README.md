@@ -20,7 +20,7 @@ Frontend: React.js
 Backend: Node.js with Express.js
 Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
-Styling: Tailwind Css(
+Styling: Tailwind Css
 
 Installation
 Prerequisites
