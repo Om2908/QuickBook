@@ -3,9 +3,9 @@
    to deliver a full-featured, modern web application.
 
 => Table of Contents:
-   Features
-   Tech Stack
-   Installation
+  >Features
+  >Tech Stack
+  >Installation
 
 Features:
 
