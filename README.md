@@ -1,5 +1,6 @@
-QuickBook 
-Welcome to the QuickBook Shopping Website! This application allows users to browse, search, and purchase books online. Built using the MERN stack, this project leverages MongoDB, Express.js, React, and Node.js to deliver a full-featured, modern web application.
+==>QuickBook 
+   Welcome to the QuickBook Shopping Website! This application allows users to browse, search, and purchase books online. Built using the MERN stack, this project leverages MongoDB, Express.js, React, and Node.js 
+   to deliver a full-featured, modern web application.
 
 Table of Contents:
 Features
