@@ -39,16 +39,16 @@ function Navbar() {
   const navItems = (
     <>
       <li>
-        <a href="/">Home</a>
+        <a href="/" className="hover:text-yellow-500">Home</a>
       </li>
       <li>
-        <a href="/course">Course</a>
+        <a href="/course"className="hover:text-yellow-500" >Course</a>
       </li>
       <li>
-        <a>Contact</a>
+        <a className="hover:text-yellow-500">Contact</a>
       </li>
       <li>
-        <a>About</a>
+        <a className="hover:text-yellow-500">About</a>
       </li>
     </>
   );
@@ -91,7 +91,7 @@ function Navbar() {
                 {navItems}
               </ul>
             </div>
-            <a className=" text-2xl font-bold cursor-pointer">bookStore</a>
+            <a className=" text-2xl font-bold cursor-pointer text-yellow-400">QuickBook</a>
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">

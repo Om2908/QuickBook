@@ -64,9 +64,10 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          Explore our selection of free courses designed to enrich your reading
+           experience! Whether you're interested in book reviews, author interviews, or literary analysis, our courses 
+           offer valuable insights to deepen your understanding and appreciation of literature. Perfect for book lovers and 
+           aspiring writers alike, these courses are available at no cost—because we believe that knowledge should be accessible to everyone. Start learning today and enhance your literary journey!
           </p>
         </div>
 
